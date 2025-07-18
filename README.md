@@ -48,7 +48,7 @@ I'm a results-driven project manager and entrepreneur with a passion for solving
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
