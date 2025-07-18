@@ -32,6 +32,28 @@ I'm a results-driven project manager and entrepreneur with a passion for solving
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShemaKevin62&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShemaKevin62&theme=nightowl&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemaKevin62&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShemaKevin62&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 🔍 Interests
 
 - Project management and business operations  
