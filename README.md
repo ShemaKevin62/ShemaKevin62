@@ -54,6 +54,20 @@ I'm a results-driven project manager and entrepreneur with a passion for solving
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| 🫀 [Heart Stroke Prediction](https://github.com/ShemaKevin62/Heart-Stroke-Prediction) | Predicts the likelihood of a stroke based on patient health indicators. | Python, ML, Classification |
+| 🎵 [Spotify Song Recommendation](https://github.com/ShemaKevin62/Spotify-Song-Prediction-and-Recommendation-System) | Predicts song popularity and recommends songs using audio features. | Python, Scikit-learn, ML |
+| 👁️ [Face Detection](https://github.com/ShemaKevin62/Face-Detection) | Detects human faces in real-time using computer vision. | Python, OpenCV, Haar Cascades |
+| 💳 [Transaction Fraud Detection](https://github.com/ShemaKevin62/Transaction-Fraud-Detection) | Identifies fraudulent financial transactions using classification models. | Python, SMOTE, Random Forest |
+| 💬 [Reddit Sentiment Analysis](https://github.com/ShemaKevin62/Reddit-Sentiment-Analysis) | Performs sentiment analysis on Reddit posts using NLP. | Python, NLP, Web Scraping |
+| 🏨 [Hotel Reservation Cancellation](https://github.com/ShemaKevin62/Hotel-Reservations-Cancellation-Prediction) | Predicts whether a hotel booking will be canceled or not. | Python, XGBoost, Data Cleaning |
+| 💎 [Diamond Price Prediction](https://github.com/ShemaKevin62/Diamond-Price-Prediction) | Estimates diamond prices using regression models and feature analysis. | Python, Regression, EDA |
+
+---
+
 ## 🔍 Interests
 
 - Project management and business operations  
