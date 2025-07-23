@@ -36,8 +36,6 @@ I'm a results-driven project manager and entrepreneur with a passion for solving
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShemaKevin62&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShemaKevin62&theme=nightowl&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemaKevin62&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ---
