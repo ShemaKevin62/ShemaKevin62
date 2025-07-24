@@ -108,27 +108,9 @@ If you’re building something impactful and need a collaborator or project lead
 
 ---
 
-## 🎓 Education & Certifications
-
-**🎓 African Leadership University** – Kigali, Rwanda  
-*Major: Computer Science & Leadership Core*  
-**Awards**: Hult Prize Campus Winner, Student Venture Program Star  
-
-**🏫 Lycée De Kigali**, Rwanda  
-*Majors: Mathematics, Physics, Entrepreneurship, Chemistry*
-
-**📜 Certifications**  
+## 📜 Certifications
 - **Project Management Professional (PMP)** – PMI *(Expected July 2025)*  
 - **Google Data Analytics Professional Certificate** – Coursera *(2022)*  
-
----
-
-## 🌍 Experience Highlights
-
-- Led high-volume legal and financial operations at **TD Bank (Canada)**  
-- Co-founded **UMUTI LTD**, secured $50K+ in investment, and won multiple innovation awards  
-- Supported 2000+ applicants in the admissions process at **African Leadership University**  
-- Delivered public talks at events including **Climate Week NYC** and **Business of Conservation Conference**
 
 ---
 
