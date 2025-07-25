@@ -62,17 +62,16 @@ I'm a results-driven project manager and entrepreneur with a passion for solving
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured FinTech Projects
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| 🫀 [Heart Stroke Prediction](https://github.com/ShemaKevin62/Heart-Stroke-Prediction) | Predicts the likelihood of a stroke based on patient health indicators. | Python, ML, Classification |
-| 🎵 [Spotify Song Recommendation](https://github.com/ShemaKevin62/Spotify-Song-Prediction-and-Recommendation-System) | Predicts song popularity and recommends songs using audio features. | Python, Scikit-learn, ML |
-| 👁️ [Face Detection](https://github.com/ShemaKevin62/Face-Detection) | Detects human faces in real-time using computer vision. | Python, OpenCV, Haar Cascades |
-| 💳 [Transaction Fraud Detection](https://github.com/ShemaKevin62/Transaction-Fraud-Detection) | Identifies fraudulent financial transactions using classification models. | Python, SMOTE, Random Forest |
-| 💬 [Reddit Sentiment Analysis](https://github.com/ShemaKevin62/Reddit-Sentiment-Analysis) | Performs sentiment analysis on Reddit posts using NLP. | Python, NLP, Web Scraping |
-| 🏨 [Hotel Reservation Cancellation](https://github.com/ShemaKevin62/Hotel-Reservations-Cancellation-Prediction) | Predicts whether a hotel booking will be canceled or not. | Python, XGBoost, Data Cleaning |
-| 💎 [Diamond Price Prediction](https://github.com/ShemaKevin62/Diamond-Price-Prediction) | Estimates diamond prices using regression models and feature analysis. | Python, Regression, EDA |
+| 🧠 [Artificial Intelligence for Banking](https://github.com/ShemaKevin62/Artificial-Intelligence-For-Banking) | Implements AI techniques to optimize core banking operations like credit scoring and risk analysis. | Python, AI, Machine Learning |
+| 🏦 [Loan Eligibility Predictor](https://github.com/ShemaKevin62/Loan-Eligibility-Predictor) | Predicts loan approval based on applicant data, supporting risk management in lending. | Python, ML, Classification |
+| 💳 [Transaction Fraud Detection](https://github.com/ShemaKevin62/Transaction-Fraud-Detection) | Detects fraudulent transactions using advanced classification algorithms. | Python, SMOTE, Random Forest |
+| 💹 [Crypto Market Analysis](https://github.com/ShemaKevin62/Finance-Cryptocurrency-Analysis) | Analyzes trends and price movements in the cryptocurrency market. | Python, Data Analysis, Crypto APIs |
+| 🧾 [Bank Note Authentication](https://github.com/ShemaKevin62/Bank-Note-Authentication) | Validates currency authenticity using statistical and machine learning methods. | Python, Classification, SVM |
+| 📉 [Bankruptcy Prediction & Growth Modelling](https://github.com/ShemaKevin62/Bankruptcy-Prediction-Growth-Modelling) | Predicts company bankruptcy risk and models future growth potential. | Python, ML, Risk Modeling |
 
 ---
 
