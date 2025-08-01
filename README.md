@@ -66,7 +66,8 @@ I'm a results-driven project manager and entrepreneur with a passion for solving
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| 🧠 [Artificial Intelligence for Banking](https://github.com/ShemaKevin62/Artificial-Intelligence-For-Banking) | Implements AI techniques to optimize core banking operations like credit scoring and risk analysis. | Python, AI, Machine Learning |
+| 🧠 [Artificial Intelligence for Banking](https://github.com/ShemaKevin62/-Gatekeeping-Automation-Assistant.git) | Automates email tracking | Excel, Power Automate, Outlook, VBA, MACRO |
+| 🧠 [Email Automation Assistant](https://github.com/ShemaKevin62/Artificial-Intelligence-For-Banking) | Implements AI techniques to optimize core banking operations like credit scoring and risk analysis. | Python, AI, Machine Learning |
 | 🏦 [Loan Eligibility Predictor](https://github.com/ShemaKevin62/Loan-Eligibility-Predictor) | Predicts loan approval based on applicant data, supporting risk management in lending. | Python, ML, Classification |
 | 💳 [Transaction Fraud Detection](https://github.com/ShemaKevin62/Transaction-Fraud-Detection) | Detects fraudulent transactions using advanced classification algorithms. | Python, SMOTE, Random Forest |
 | 💹 [Crypto Market Analysis](https://github.com/ShemaKevin62/Finance-Cryptocurrency-Analysis) | Analyzes trends and price movements in the cryptocurrency market. | Python, Data Analysis, Crypto APIs |
